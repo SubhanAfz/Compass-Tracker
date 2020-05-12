@@ -1,0 +1,5 @@
+me\subhanafz\compasstrack\compasstracker\events\PlayerMove.class
+me\subhanafz\compasstrack\compasstracker\CompassTracker.class
+me\subhanafz\compasstrack\compasstracker\commands\Track.class
+me\subhanafz\compasstrack\compasstracker\events\OnJoin.class
+me\subhanafz\compasstrack\compasstracker\commands\GiveCompass.class

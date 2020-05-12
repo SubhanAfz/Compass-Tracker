@@ -1,0 +1,12 @@
+name: CompassTracker
+version: ${project.version}
+main: me.subhanafz.compasstrack.compasstracker.CompassTracker
+api-version: 1.13
+description: CompassTracker
+commands:
+  giveCompass:
+    description: Gives you a compass
+    usage: /<command>
+  track:
+    description: Makes compass Track a player
+    usage: /<command> [PlayerName]
