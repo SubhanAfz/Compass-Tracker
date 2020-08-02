@@ -7,6 +7,16 @@ commands:
   giveCompass:
     description: Gives you a compass
     usage: /<command>
-  track:
-    description: Makes compass Track a player
-    usage: /<command> [PlayerName]
+  addSpeedrunners:
+    description: Adds a speedrunner to the Speedrunner arraylist
+    usage: /<command> [Player]
+  getSpeedrunners:
+    description: Prints out all of the speedrunners in the arraylist
+    usage: /<command>
+  removeSpeedrunners:
+    description: Removes a speedrunner from the Speedrunner arraylist
+    usage: /<command> [Player]
+  startTracking:
+    description: Toggle tracking of speedrunners
+    usage: /<command>
+

@@ -1,5 +1,13 @@
-C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\commands\Track.java
-C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\PlayerMove.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\commands\addSpeedrunners.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\OnDeath.java
 C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\OnJoin.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\OnLeave.java
 C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\commands\GiveCompass.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\commands\StartTracking.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\OnRespawn.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\PlayerMove.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\commands\getSpeedrunners.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\events\OnDrop.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\commands\removeSpeedrunners.java
 C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\CompassTracker.java
+C:\Users\H.A.R\IdeaProjects\CompassTracker\src\main\java\me\subhanafz\compasstrack\compasstracker\Functions\getPlayerFromPlayerName.java

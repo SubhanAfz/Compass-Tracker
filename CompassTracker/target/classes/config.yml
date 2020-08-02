@@ -1,1 +1,5 @@
-giveCompassOnSpawn: false
+
+giveCompassOnSpawn: true # Gives a compass on a player joining the server
+RemoveCompassOnHunterDeath: true #Removes a compass on hunters death
+ForceHuntersNoDropCompass: true  #Forces hunters to not drop their compasses
+TrackPlayerAuto: "" #Tracks one player automatically

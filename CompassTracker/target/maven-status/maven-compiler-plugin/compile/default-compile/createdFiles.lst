@@ -1,5 +1,13 @@
 me\subhanafz\compasstrack\compasstracker\events\PlayerMove.class
+me\subhanafz\compasstrack\compasstracker\commands\StartTracking.class
+me\subhanafz\compasstrack\compasstracker\events\OnLeave.class
+me\subhanafz\compasstrack\compasstracker\events\OnDrop.class
+me\subhanafz\compasstrack\compasstracker\commands\getSpeedrunners.class
+me\subhanafz\compasstrack\compasstracker\events\OnDeath.class
+me\subhanafz\compasstrack\compasstracker\Functions\getPlayerFromPlayerName.class
+me\subhanafz\compasstrack\compasstracker\commands\removeSpeedrunners.class
+me\subhanafz\compasstrack\compasstracker\commands\addSpeedrunners.class
+me\subhanafz\compasstrack\compasstracker\events\OnRespawn.class
 me\subhanafz\compasstrack\compasstracker\CompassTracker.class
-me\subhanafz\compasstrack\compasstracker\commands\Track.class
 me\subhanafz\compasstrack\compasstracker\events\OnJoin.class
 me\subhanafz\compasstrack\compasstracker\commands\GiveCompass.class
